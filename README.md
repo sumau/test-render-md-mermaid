@@ -24,3 +24,16 @@ graph LR
     D --> F
 ```
 </details>
+
+
+![test](mermaid/test.svg)
+
+<details>
+  <summary>diagram source</summary>
+  
+```mermaid
+graph LR
+    C --> E
+    D --> F
+```
+</details>
