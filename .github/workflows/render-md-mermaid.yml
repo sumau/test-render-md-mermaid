@@ -3,6 +3,7 @@
 name: render-md-mermaid
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - '**.md'
